@@ -1,3 +1,3 @@
 ##  :wave: Hey Friends, 
 
-<img src="https://drive.google.com/file/d/12afaOVxxbbvl36vUz36oUWs-C9czpqPU/view?usp=sharing" >
+<img src="https://github.com/7usharnp/7usharnp/blob/master/Untitled.png" >
