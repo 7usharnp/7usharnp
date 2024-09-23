@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,AWS,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,aws,git,github,maven,jenkins,mysql,py&theme=light)](https://skillicons.dev)</br>
 Hi there!</br>
 I'm Tushar, an Automation Tester passionate about quality assurance and test automation.</br>
 I specialize in building robust and efficient test frameworks to ensure software reliability and performance.
