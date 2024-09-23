@@ -17,7 +17,8 @@ It's my go-to framework for structuring test suites and managing test dependenci
 ☁️ **AWS and Docker**: </br>
 I've worked extensively with Amazon Web Services (AWS), setting up test environments, managing instances, and ensuring scalability. </br>
 Additionally, I'm comfortable with Docker, containerizing applications for consistent testing across environments.</br></br>
-**CI/CD:** Continuous Integration and Continuous Deployment (CI/CD) are my specialty.</br> 
+**CI/CD:**</br>
+Continuous Integration and Continuous Deployment (CI/CD) are my specialty.</br> 
 I've integrated test automation into CI/CD pipelines using tools like Jenkins, GitLab CI/CD, and GitHub Actions.</br></br>
 **API Testing:** </br>
 I'm proficient in RestAssured for API testing.</br>
