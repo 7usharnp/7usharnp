@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=java,AWS,git,github&theme=light)](https://skillicons.dev)
 Hi there!</br>
 I'm Tushar, an Automation Tester passionate about quality assurance and test automation.</br>
 I specialize in building robust and efficient test frameworks to ensure software reliability and performance.
@@ -7,7 +8,7 @@ I specialize in building robust and efficient test frameworks to ensure software
 ** Test Automation:** </br>
 I have hands-on experience with Selenium WebDriver, crafting automated tests for web applications. </br>
 From creating test scripts and managing test data to handling dynamic elements, I thrive on making testing efficient and effective. </br>
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) Java and Cucumber: </br>
+Java and Cucumber: </br>
 I'm fluent in Java, using it to build scalable and maintainable test code. </br>
 With Cucumber, I've developed expressive and readable BDD (Behavior-Driven Development) scenarios, bridging the gap between technical and non-technical stakeholders.</br>
 ** TestNG:** </br>
